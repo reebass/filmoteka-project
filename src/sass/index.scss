@@ -1,7 +1,8 @@
-@import '~node_modules/modern-normalize/modern-normalize.css';
+@import './base/reset-style';
+@import './base/variables';
 @import './base/visually-hidden';
-@import './base/header';
 @import './base/common';
+@import './base/header';
 
 @import './base/hero';
 @import './base/card-for-movie';
